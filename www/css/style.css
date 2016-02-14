@@ -5,8 +5,8 @@ div {
     height: 100%;
     width: auto;
     padding: 51px 46px 62px 51px;
-    margin-left: 7%;
-    margin-right: 7%;
+    margin-left: 10%;
+    margin-right: 10%;
     background-color: #ffffff;
     border-left: 2px solid #dbdbdb;
     border-right: 2px solid #dbdbdb;
@@ -78,47 +78,16 @@ ul {
     padding:0;
     margin:0;
     border:0;
-    width:70%;
     float: left;
 }
 .content_image {
-    width: 99%;
     padding:0;
     margin:0;
     margin-left: 48px;
     border: 1px solid #c8c8c8;
 }
 .content_text {
-    border:0;
-    padding:0;
-    padding-top: 4%;
-    padding-left: 10%;
-    margin:0;
-    display: inline-block;
-    text-align: left;
-}
-.content_text p {
-    padding-top:  11px;
-    font-size: 14px;
-
-}
-.footer {
-    padding:0;
-    margin:0;
-    border: 0;
-    background-color: #e1e1e1;
-    margin-top:75px;
-    height:40px;
-    font-family: Open Sans;
-}
-.footer li {
-    display: inline-block;
-    padding:0;
-    margin:0;
-    border: 0;
-    padding:16px 69px 11px 34px;
-    font-size:15px;
-}
-.footer li:hover {
-    text-decoration: underline;
+	border:0;
+	padding:0;
+	margin:0;
 }
