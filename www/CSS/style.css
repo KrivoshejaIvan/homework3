@@ -1,0 +1,124 @@
+﻿html{
+    background-color: #f9f9f9;
+}
+div {
+    height: 100%;
+    width: auto;
+    padding: 51px 46px 62px 51px;
+    margin-left: 7%;
+    margin-right: 7%;
+    background-color: #ffffff;
+    border-left: 2px solid #dbdbdb;
+    border-right: 2px solid #dbdbdb;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.header {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.menu_block {
+    margin: 0;
+    padding: 0;
+    margin-top: 40px;
+    border: 0;
+    height: 40px;
+    background-color: #535353;
+}
+.menu_block li {
+    display: inline-block;
+    padding:15px 70px 10px 35px;
+    font-family: Open Sans;
+    font-size: 15px;
+    color: #ffffff;
+}
+.menu_block li:hover{
+    border-left: 1px solid #838383;
+    border-right: 1px solid #838383;
+    background: #444444;
+}
+.container {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    padding-top: 40px;
+    font-family: Open Sans;
+}
+
+.container:after {
+    content:"";
+    display:block;
+    clear:both;
+}
+.left_menu {
+    padding:0;
+    margin:0;
+    border:0;
+    display: inline-block;
+    float: left;
+}
+.left_menu li {
+    border: 1px solid #c8c8c8;
+    width: 240px;
+    padding: 16px;
+    font-size: 14px;
+}
+.left_menu li:hover {
+    width: 226px;
+    padding-left: 30px;
+    background-color: #c8c8c8;
+}
+.content {
+    display: inline-block;
+    padding:0;
+    margin:0;
+    border:0;
+    width:70%;
+    float: left;
+}
+.content_image {
+    width: 99%;
+    padding:0;
+    margin:0;
+    margin-left: 48px;
+    border: 1px solid #c8c8c8;
+}
+.content_text {
+    border:0;
+    padding:0;
+    padding-top: 4%;
+    padding-left: 10%;
+    margin:0;
+    display: inline-block;
+    text-align: left;
+}
+.content_text p {
+    padding-top:  11px;
+    font-size: 14px;
+
+}
+.footer {
+    padding:0;
+    margin:0;
+    border: 0;
+    background-color: #e1e1e1;
+    margin-top:75px;
+    height:40px;
+    font-family: Open Sans;
+}
+.footer li {
+    display: inline-block;
+    padding:0;
+    margin:0;
+    border: 0;
+    padding:16px 69px 11px 34px;
+    font-size:15px;
+}
+.footer li:hover {
+    text-decoration: underline;
+}
